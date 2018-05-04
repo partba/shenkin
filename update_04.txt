@@ -1,1 +1,3 @@
 4. used python test auotmation
+Note: use selenium to crawl web pages by elements_id
+
