@@ -1,1 +1,2 @@
 4. used python test auotmation
+Note: use selenium
